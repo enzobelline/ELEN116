@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      lkim
+HostName                       linux11105.dc.engr.scu.edu
+ProcessIdentifier              26113
+ProcessCreationTime_UTC        1614119826
+ProcessCreationTime_Readable   Tue Feb 23 14:37:06 2021 PST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /DCNFS/users/student/lkim/ELEN116/ELEN116/Project2_tb/schematic/sch.oa.cdslck
+TimeEditLocked                 Tue Feb 23 14:38:40 2021 PST
